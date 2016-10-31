@@ -1,4 +1,5 @@
+README.MD
 npm-debug.log
 yarn-error.log
 node_modules/
-README.MD
+/dist/client-bundle.js*
